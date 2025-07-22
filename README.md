@@ -20,7 +20,7 @@ The online retail's database structure consists of only one table: orders, with 
 
 The company's sales in 2011 covered over 22,000 orders from approximately 4,000 customers. In total, it generated an annual revenue of $8.3 million, with an average order value of $374.05. The company has a global reach, with sales recorded across multiple continents, though the highest revenue contributions came primarily from the UK and Europe. Throughout the year, sales peaked on the month of Novmeber, likely driven by seasonal events and holiday shopping.
 
-Below is the overview page from the PowerBI dashboard. The interactive dashboard can be downloaded [here](www.google.com)
+Below is the overview page from the PowerBI dashboard. The interactive dashboard can be downloaded [here](https://github.com/hliu34/Retail-Sales-UK/blob/main/UK-Retail-Sales-Analysis.pbix)
 
 
 <img width="1336" height="730" alt="kpi_summary" src="https://github.com/user-attachments/assets/131dfc69-0a21-4745-a06d-6627d06cc85a" />

@@ -22,8 +22,7 @@ The company's sales in 2011 covered over 22,000 orders from approximately 4,000 
 
 Below is the overview page from the PowerBI dashboard. The interactive dashboard can be downloaded [here](https://github.com/hliu34/Retail-Sales-UK/blob/main/UK-Retail-Sales-Analysis.pbix)
 
-
-<img width="1336" height="730" alt="kpi_summary" src="https://github.com/user-attachments/assets/131dfc69-0a21-4745-a06d-6627d06cc85a" />
+<img width="1333" height="734" alt="Retail-Sales-UK-Dashboard" src="https://github.com/user-attachments/assets/e2cc6465-5f17-4b12-9a65-3b06b5e8fbce" />
 
 ### Sales Trends:
 

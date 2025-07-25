@@ -46,3 +46,10 @@ Below is the overview page from the PowerBI dashboard. The interactive dashboard
 
 Based on the uncovered insights, the following recommendations have been provided:
 
+ * With revenue > $90k for products such as Regency Cakestand 3 Tier and White Hanging Heart T-Light Holder, **increasing the stock, market visibility, and bundle offers around these top-performing products to maximize returns**
+ * Some products, like Paper Craft Little Birdie and Manual, show significant negative revenue due to returns or cancellations **Investigating reasons (e.g., quality issues, shipping delays, unclear product descriptions) can improve product quality or customer expectations.**
+ * **Launch targeted promotions and localized advertising in other regions to improve international sales**. UK currently makes up 81.5% of the total annual revenue.
+ * Revenue peaked in November, likely due to holiday shopping. **Plan seasonal campaigns in Q4, optimize inventory levels, and scale operations in anticipation of the holiday surge**
+ * With 22k order and 4k customers, the average customer places multiple orders. **Leverage loyalty program, email marketing, and personalized offers to turn occasional buyers to repeat customers**
+ * Average order value is around $374.05, which is quite high. **Further increase sales with cross-sell complementary products, offer product bundles, and use discounts**
+

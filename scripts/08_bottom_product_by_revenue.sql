@@ -6,3 +6,4 @@ SELECT
 FROM [E-Commerce Data]..ecommerce_cleaned
 WHERE TotalPrice < 0
 GROUP BY [Description]
+ORDER BY TotalSale 
